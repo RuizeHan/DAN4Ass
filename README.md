@@ -13,7 +13,7 @@ Real-World MvMHA Image Dataset (MvMHA-R):
 ...
 
 Code:
-Coming soon...(It is expected as early as Apr.
+Coming soon...(It is expected early than Apr.
 
 
 ## Introduction
