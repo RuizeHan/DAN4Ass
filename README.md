@@ -2,7 +2,7 @@
 Multi-view Multi-Human Association with Deep Assignment Network
 
 ## New
-The datasets used in this work are released
+The datasets used in this work are released as
 
 Synthetic MvMHA Image Dataset (MvMHA-S):
 Link：https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ 
