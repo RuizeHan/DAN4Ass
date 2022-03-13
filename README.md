@@ -1,5 +1,5 @@
 # DAN4Ass
-Multi-view Multi-Human Association with Deep Assignment Network
+Multi-view Multi-Human Association with Deep Assignment Network, in IEEE TIP 2022.
 
 ## New
 The datasets used in this work are released to the public.
@@ -26,7 +26,7 @@ In this work, we propose a Deep Assignment Network (DAN) to model the constraine
 ![framework](https://github.com/RuizeHan/DAN4Ass/blob/main/framework.jpg)
 
 
-This work can be cited by
+This work can be cited by:
 ```
 @ARTICLE{han2022mvmha,  
 author={Han, Ruize and Wang, Yun and Yan, Haomin and Feng, Wei and Wang, Song},  
