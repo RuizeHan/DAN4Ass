@@ -19,7 +19,7 @@ Identifying the same persons across different views plays an important role in m
 In this work, we propose a Deep Assignment Network (DAN) to model the constrained multi-view multi-clique assignment problem, which is implemented by two popular backbone networks (RNN and GNN). On both of them, we verify the effectiveness of the proposed unsupervised constraint loss.
 
 
-![res](https://github.com/HanRuize/CvMHA/blob/master/figs/framework.jpg)
+![framework](https://github.com/RuizeHan/DAN4Ass/blob/main/framework.jpg)
 
 
 ```
