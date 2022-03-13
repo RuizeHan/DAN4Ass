@@ -2,7 +2,7 @@
 Multi-view Multi-Human Association with Deep Assignment Network
 
 ## New
-The datasets used in this work are released as
+The datasets used in this work are released to the public.
 
 Synthetic MvMHA Image Dataset (MvMHA-S):
 Link: https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ 
@@ -26,6 +26,7 @@ In this work, we propose a Deep Assignment Network (DAN) to model the constraine
 ![framework](https://github.com/RuizeHan/DAN4Ass/blob/main/framework.jpg)
 
 
+This work can be cited by
 ```
 @ARTICLE{han2022mvmha,  
 author={Han, Ruize and Wang, Yun and Yan, Haomin and Feng, Wei and Wang, Song},  
