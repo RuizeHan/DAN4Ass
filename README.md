@@ -5,12 +5,13 @@ Multi-view Multi-Human Association with Deep Assignment Network
 The datasets used in this work are released as
 
 Synthetic MvMHA Image Dataset (MvMHA-S):
-Link：https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ 
-PW：MMHA
+Link: https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ 
+PW: MMHA
 
 
 Real-World MvMHA Image Dataset (MvMHA-R):
-...
+Link: https://pan.baidu.com/s/1aR0-7gh4BQNDZ3bT-HR-Wg 
+PW: MMHA
 
 Code:
 Coming soon...(It is expected early than Apr.
