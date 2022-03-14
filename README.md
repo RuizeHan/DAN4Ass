@@ -4,15 +4,13 @@ Multi-view Multi-Human Association with Deep Assignment Network, in IEEE TIP 202
 ## New
 The datasets used in this work are released to the public.
 
-Synthetic MvMHA Image Dataset (MvMHA-S):
+Synthetic MvMHA Dataset (MvMHA-S):
 Link: https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ 
-
 PW: MMHA
 
 
-Real-World MvMHA Image Dataset (MvMHA-R):
+Real-World MvMHA Dataset (MvMHA-R):
 Link: https://pan.baidu.com/s/1aR0-7gh4BQNDZ3bT-HR-Wg 
-
 PW: MMHA
 
 Code:
