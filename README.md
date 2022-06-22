@@ -14,7 +14,7 @@ Link: https://pan.baidu.com/s/1aR0-7gh4BQNDZ3bT-HR-Wg
 PW: MMHA
 
 Code:
-Coming soon...(It is expected early than Apr.
+We have released the source code (core component).
 
 
 ## Introduction
